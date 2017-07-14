@@ -3,6 +3,11 @@
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-update_project_codesigning)
 ![](http://ruby-gem-downloads-badge.herokuapp.com/fastlane-plugin-update_project_codesigning)
 
+
+# DEPRECATED
+
+This plugin is deprecated in favor of core action shipped with fastlane, parameters are exactly the same, new action name is automatic_code_signing, there are also some helpers enable_automatic_code_signing, disable_automatic_code_signing where you only need the project path set :)
+
 ## About
 
 Updates the Xcode 8 Automatic Codesigning Flag
